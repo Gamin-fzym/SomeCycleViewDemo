@@ -1,0 +1,6 @@
+framework module Pods_SomeCycleViewDemo_SomeCycleViewDemoUITests {
+  umbrella header "Pods-SomeCycleViewDemo-SomeCycleViewDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

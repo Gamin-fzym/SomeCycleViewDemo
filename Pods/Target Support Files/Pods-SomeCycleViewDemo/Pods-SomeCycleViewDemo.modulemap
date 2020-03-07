@@ -1,0 +1,6 @@
+framework module Pods_SomeCycleViewDemo {
+  umbrella header "Pods-SomeCycleViewDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
